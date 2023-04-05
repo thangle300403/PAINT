@@ -1,0 +1,41 @@
+E:\winformPAINTPRO\Pain-t\Pain-t\bin\Debug\Pain-t.exe.config
+E:\winformPAINTPRO\Pain-t\Pain-t\bin\Debug\Pain-t.exe
+E:\winformPAINTPRO\Pain-t\Pain-t\bin\Debug\Pain-t.pdb
+E:\winformPAINTPRO\Pain-t\Pain-t\obj\Debug\Pain_t.Properties.Resources.resources
+E:\winformPAINTPRO\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.GenerateResource.cache
+E:\winformPAINTPRO\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.CoreCompileInputs.cache
+E:\winformPAINTPRO\Pain-t\Pain-t\obj\Debug\Pain-t.exe
+E:\winformPAINTPRO\Pain-t\Pain-t\obj\Debug\Pain-t.pdb
+E:\winformPAINTPRO\Pain-t\Pain-t\obj\Debug\Pain_tssq2.Form1.resources
+E:\winformPAINTPRO\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.AssemblyReference.cache
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\bin\Debug\Pain-t.exe.config
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\bin\Debug\Pain-t.exe
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\bin\Debug\Pain-t.pdb
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.AssemblyReference.cache
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\obj\Debug\Pain_tssq2.Form1.resources
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\obj\Debug\Pain_t.Properties.Resources.resources
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.GenerateResource.cache
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.CoreCompileInputs.cache
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.exe
+E:\winformPAINTPRO - BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.pdb
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\bin\Debug\Pain-t.exe.config
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\bin\Debug\Pain-t.exe
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\bin\Debug\Pain-t.pdb
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\obj\Debug\Pain_tssq2.Form1.resources
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\obj\Debug\Pain_t.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.exe
+C:\Users\ASUS\Desktop\SEPsPAINT_BACKUP\Pain-t\Pain-t\obj\Debug\Pain-t.pdb
+E:\PAINT\Pain-t\bin\Debug\Pain-t.exe.config
+E:\PAINT\Pain-t\bin\Debug\Pain-t.exe
+E:\PAINT\Pain-t\bin\Debug\Pain-t.pdb
+E:\PAINT\Pain-t\obj\Debug\Pain-t.csproj.AssemblyReference.cache
+E:\PAINT\Pain-t\obj\Debug\Pain_tssq2.Form1.resources
+E:\PAINT\Pain-t\obj\Debug\Pain_t.Properties.Resources.resources
+E:\PAINT\Pain-t\obj\Debug\Pain-t.csproj.GenerateResource.cache
+E:\PAINT\Pain-t\obj\Debug\Pain-t.csproj.CoreCompileInputs.cache
+E:\PAINT\Pain-t\obj\Debug\Pain-t.exe
+E:\PAINT\Pain-t\obj\Debug\Pain-t.pdb
